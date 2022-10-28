@@ -1,0 +1,4 @@
+save_model*/*
+*pyc
+*h5
+*txt
